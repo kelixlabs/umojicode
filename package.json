@@ -8,7 +8,7 @@
     "test": "node test/test.js",
     "build": "rollup -c"
   },
-  "author": "channg",
+  "author": "kelixlabs",
   "license": "ISC",
   "devDependencies": {
     "rollup": "^0.65.2",
